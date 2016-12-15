@@ -218,7 +218,7 @@ Defending is the same process as attacking, but in reverse. The Dungeon Master r
 
 #### Death
 
-If a player's HP drops below 0, they die. This generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death inexchange for humiliating punishments.
+If a player's HP drops below 0, they die. This generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death in exchange for humiliating punishments.
 
 #### Experience Points and Levels
 
