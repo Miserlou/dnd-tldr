@@ -48,7 +48,7 @@ If you're super lazy, just use these characters, which should suit any starting 
 
 Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand.
 
-#### Race
+### Race
 _TL;DR: What do you look like?_
 
 Race defines the **general physical characterics** of your character. 
@@ -71,7 +71,7 @@ Choose one:
 | Half-Orc        | Tall | Savage |
 | Dragonborn       | Taller | Scales, tough |
 
-#### Class
+### Class
 _TL;DR: What can you do?_
 
 Class defines the **skills and motivations** of your character. 
@@ -93,7 +93,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 | Warlock      | War magic | Cool spells |
 | Wizard      | General magic | Cool spells |
 
-#### Alignment
+### Alignment
 _TL;DR: How do you behave - good or bad? Lawful or criminal?_
 
 Alignment describes how your character **behaves**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
@@ -105,7 +105,7 @@ Again, choose one you think would be fun:
 | **Lawful Neutral** | **True Neutral** | **Chaotic Neutral** |
 | **Lawful Evil** | **Neutral Evil** | **Chaotic Good** |
 
-#### Name
+### Name
 
 Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or a poop joke here.
 
