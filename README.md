@@ -165,11 +165,21 @@ _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how m
 TODO
 
 ## Dungeon Mastering
-_TL;DR: Make your players have as much fun as possible by being kind of a dick._
+_TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
 
-As a dungeon master, your job is to make the other players have as much fun as possible.
+As a dungeon master, your job is to make the other players have as much fun as possible. 
 
-Different players like different things, so feel free to adjust your campaign to suit their needs.
+Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them. 
+
+Don't let players take too long for their turns or the game becomes boring. It really shouldn't take more than 30 seconds a turn. If this becomes a problem, use a timer.
+
+To make sure that the game moves along quickly, if somebody asks you if they can do something, the best answer to give them is *"roll for it!"*
+
+If the players are all playing along nicely, solving your puzzles and coming up with creative solutions to your problems, you can reward them with **inspiration points**, which acts like a currency that they can use to improve the results of their roles.
+
+Different players like different things, so feel free to adjust your campaign to suit their needs. If they like combat, throw a bunch of enemies at them. If they like exploration, create puzzles for them to solve. If they like interaction, create interesting characters for them to talk to. A good campaign will have a balance of all these.
+
+Your players will have different motivations for playing. Newer players generally just want to aquire new weapons and armour to improve their character's fighting skills, but other players may just be more interested in discovering more about the plot of the campaign. Figure out what different people like and adjust the campaign accordingly.
 
 ### Premade Campaigns
 
