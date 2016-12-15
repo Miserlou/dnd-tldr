@@ -30,7 +30,11 @@ _TL;DR: Invent a character, explore a fantasy world, talk to the people living t
 
 Dungeons and Dragons a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
+#### Rules
+
 There are very few rules to the game, so creativity and ingenuity are rewarded. The players will be placed into challenging situations, (such as fighting an army of monsters, discovering and deciphering mysterious clues, and interrogating, seducing and deceiving non-player characters), and will have to use their imaginations to devise ways to overcome those challenges.
+
+#### Mechanics
 
 The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20. 
 
@@ -38,7 +42,13 @@ The Dungeon Master decides to themself how difficult that task is (out of 20), a
 
 Natural rolls of 1 and 20 result in spectacular failures and success, respectively.
 
+#### Goals
+
 The goal of the game is simply to play the game, because it is fun! 
+
+Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultimately, it's all up to you. Want to start a peasant revolt against the evil king? Go ahead! Want to turn a dragon into your pet and become the ruler of the land? Roll for it! Want to start a seedy brothel? Uh, sure! 
+
+The only limits are your imagination and the rolls of dice. Have fun!
 
 ## Making Characters
 _TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
