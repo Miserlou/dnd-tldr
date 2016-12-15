@@ -7,16 +7,16 @@
 
 _Too long, didn't read: This guide makes DnD super fun and easy._
 
-Dungeons and Dragons is fun, but super complicated by default. It can be very overwhelming for new players as there as so many unnecessary rules.
+<!--Dungeons and Dragons is fun, but super complicated by default. It can be very overwhelming for new players as there as so many unnecessary rules.-->
 
-This is a guide for new players and dungeon masters to play a **fast-paced, fun-optimized** version of the game. We prefer fun and hilarity over rule-following.
+This is a guide for new players and dungeon masters who want to play a **fast-paced, fun-optimized** version of the game. We prefer fun and hilarity over rule-following.
 
-Ideally, this should be all you need so that you can play with normies, hesitant significant others, skeptics and moms. Typically people who have watched Stranger Things are pretty into it.
+Ideally, this guide should be all you need to play a fun game with friends, newbies, normies, hesitant significant others, skeptics and moms. Typically people who have watched Stranger Things are pretty into it.
 
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
-* 2-4 **players** + 1 Dungeon Master 👨👩👨👩
+* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
 * **Pen and paper** for each player 📝📝📝📝
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
@@ -125,7 +125,7 @@ Alternately, you can just use this [character name generator](https://www.wizard
 
 #### Character Sheets
 
-Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of items in your inventory that you'll start the game with.
+Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
 ## Gameplay
 _TL;DR: Just roll a D20 and see what happens._
@@ -135,20 +135,44 @@ Okay! Now you're ready to play. The Dungeon Master is going to read a little nar
 There are three pillars to gameplay: **exploration** of the game world, **interaction** with non-player characters, and **combat** with monsters.
 
 ### Exploration
+_TL;DR: Look for clues, traps, treasure and secrets._
 
-TODO
+* Exploring environments
+* Solving puzzles
+* Surmounting obstacles
+* Looking for treasure
+* Discovering traps
+* Lockpicking
+* Setting traps
+* Starting fires
 
 ### Interaction
+_TL;DR: Use disguises and sexuality to acquire information._
 
-TODO
+Eventually, players will encounter non-player characters. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
+
+* Seduction and sexual intrigue
+* Interrogation
+* Lying
+* Racial discrimination
+* Language barriers
+* Kidnapping
+* Torture
+* Slight-of-hand
+* Bribery
+* Disguise
 
 ### Combat
+_TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how much damage you did._
 
 TODO
 
 ## Dungeon Mastering
+_TL;DR: Make your players have as much fun as possible by being kind of a dick._
 
 As a dungeon master, your job is to make the other players have as much fun as possible.
+
+Different players like different things, so feel free to adjust your campaign to suit their needs.
 
 ### Premade Campaigns
 
