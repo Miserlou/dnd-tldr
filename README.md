@@ -123,10 +123,11 @@ Alignment describes your character's **motivations and behavior**. There are two
 
 Again, choose one you think would be fun:
 
-| Lawful Good (Superman) | Neutral Good (Gandalf) | Chaotic Good (Batman) |
+| | | |
 |:------------- |:----------------|:-------------|
-| **Lawful Neutral (Stannis Baratheon)** | **True Neutral (Saul Goodman)** | **Chaotic Neutral (Han Solo)** |
-| **Lawful Evil (Darth Vader)** | **Neutral Evil (Voldemort)**  | **Chaotic Evil (The Joker)** |
+| **Lawful Good** (Superman) | **Neutral Good** (Gandalf) | **Chaotic Good** (Batman) |
+| **Lawful Neutral** (Stannis Baratheon) | **True Neutral** (Saul Goodman) | **Chaotic Neutral** (Han Solo) |
+| **Lawful Evil** (Darth Vader) | **Neutral Evil** (Voldemort)  | **Chaotic Evil** (The Joker) |
 
 ### Name
 
