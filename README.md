@@ -15,7 +15,7 @@ Ideally, this should be all you need so that you can play with normies, hesitant
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
 
-
+TODO
 
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
@@ -115,11 +115,19 @@ _TL;DR: Just roll a D20 and see what happens._
 
 Okay! Now you're ready to play. The Dungeon Master is going to read a little narative exposition, then you're off!
 
+TODO
+
 ### Exploration
+
+TODO
 
 ### Interaction
 
+TODO
+
 ### Combat
+
+TODO
 
 ## Dungeon Mastering
 
