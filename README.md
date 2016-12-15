@@ -50,7 +50,7 @@ Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultim
 
 The only limits are your imagination and the rolls of dice. Have fun!
 
-## Making Characters
+## Making Characters 👫
 _TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
 
 <!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
@@ -129,7 +129,7 @@ Again, choose one you think would be fun:
 
 ### Name
 
-Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or a poop joke here.
+Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or poop joke here.
 
 Alternately, you can just use this [character name generator](https://www.wizards.com/dnd/article5.asp?x=dnd/dx20010202b) and see what happens.
 
@@ -137,7 +137,7 @@ Alternately, you can just use this [character name generator](https://www.wizard
 
 Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
-## Gameplay
+## Gameplay 🎲
 _TL;DR: Just roll a D20 and see what happens._
 
 Okay! Now you're ready to play. The Dungeon Master is going to read a little narative exposition, then you're off!
@@ -146,7 +146,7 @@ Choose the player with the highest Speed value on their sheet to go first. Playe
 
 There are three pillars to gameplay: **exploration** of the game world, **interaction** with non-player characters, and **combat** with monsters.
 
-### Exploration
+### Exploration 🔍
 _TL;DR: Look for clues, traps, treasure and secrets._
 
 Exploration is the primary mechanic when there are no non-player characters or monsters around. This usually means looking around the environment for clues or secrets, discovering or using items, or solving puzzles. Gameplay elements often involve, but aren't limited to:
@@ -158,7 +158,7 @@ Exploration is the primary mechanic when there are no non-player characters or m
 * Discovering and setting traps
 * Starting fires and other diversions
 
-### Interaction
+### Interaction 💬
 _TL;DR: Use disguises and sexuality to acquire information._
 
 Eventually, players will encounter non-player characters. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
@@ -169,12 +169,12 @@ Eventually, players will encounter non-player characters. These might be guards,
 * Kidnapping, interrogation, and torture
 * Navigating racial discrimination and crossing language barriers
 
-### Combat
+### Combat ⚔
 _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how much damage you did._
 
 TODO
 
-## Dungeon Mastering
+## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
 
 As a dungeon master, your job is to make the other players have as much fun as possible. 
@@ -210,12 +210,16 @@ I like the _Adventurer's League_ series because the missions are short and the f
 
 I haven't done this yet. Advice welcome!
 
-## Other Resources
+A popular approach is to simply repurpose scenarios and characters from popular media. For instance, maybe take the plot of _Alien_ but replace the alien with a dragon. Or maybe have your adventureres go on the train-robbery mission from _Firefly_. You get the idea!
+
+There's also no reason why your quest has to be in a Tolkein-esque fantasy universe. Just port the characters into whatever type of world you want (steampunk and sci-fi worlds are pretty popular alternatives).
+
+## Other Resources 📚
 
 * [Ronny's Character Creation Guide](https://olddungeonmaster.files.wordpress.com/2016/04/character_creation.pdf)
 * [Old Dungeon Master](https://olddungeonmaster.wordpress.com)
 * [DnD Subreddit](https://www.reddit.com/r/DnD/)
 
-## Improving this Guide
+## Improving this Guide 🔀
 
 Got ways to improve this guide? Just send a pull request!
