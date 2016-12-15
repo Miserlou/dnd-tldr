@@ -132,35 +132,32 @@ _TL;DR: Just roll a D20 and see what happens._
 
 Okay! Now you're ready to play. The Dungeon Master is going to read a little narative exposition, then you're off!
 
+Choose the player with the highest Speed value on their sheet to go first. Players then take turns interacting with the world, passing to the left after their turn is over. If the turn passes to the Dungeon Master while there are enemy monsters in play, the Dungeon Master plays a turn for each of those monsters before passing again.
+
 There are three pillars to gameplay: **exploration** of the game world, **interaction** with non-player characters, and **combat** with monsters.
 
 ### Exploration
 _TL;DR: Look for clues, traps, treasure and secrets._
 
-* Exploring environments
+Exploration is the primary mechanic when there are no non-player characters or monsters around. This usually means looking around the environment for clues or secrets, discovering or using items, or solving puzzles. Gameplay elements often involve, but aren't limited to:
+
 * Solving puzzles
-* Surmounting obstacles
+* Surmounting obstacles (climbing walls, lockpicking, etc.)
 * Looking for treasure
-* Discovering traps
-* Lockpicking
-* Setting traps
-* Starting fires
+* Stealthy intrusion and escape
+* Discovering and setting traps
+* Starting fires and other diversions
 
 ### Interaction
 _TL;DR: Use disguises and sexuality to acquire information._
 
 Eventually, players will encounter non-player characters. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
 
-* Seduction and sexual intrigue
-* Interrogation
-* Lying
-* Racial discrimination
-* Language barriers
-* Kidnapping
-* Torture
-* Slight-of-hand
+* Sexual seduction
+* Disguise, trickery and slight-of-hand
 * Bribery
-* Disguise
+* Kidnapping, interrogation, and torture
+* Navigating racial discrimination and crossing language barriers
 
 ### Combat
 _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how much damage you did._
