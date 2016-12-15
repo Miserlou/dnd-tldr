@@ -1,5 +1,5 @@
 ![dnd-tl;dr](http://i.imgur.com/WUdJn3h.png)
-# DnD: TL;DR [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
+# DnD: TL;DR ![0.1.0](https://img.shields.io/badge/version-0.1.0-brightgreen.svg) [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
@@ -21,6 +21,7 @@ _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
 * 4-6 **beers** per player 🍺🍺🍺🍺
+* **Speakers** for playing [epic background music](http://tabletopaudio.com/) 🔈
 * Costumes/Hats (Optional)
 	* The game is more fun if you all get into character with dorky hats
 
@@ -137,6 +138,8 @@ Alternately, you can just use this [character name generator](https://www.wizard
 
 Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
+#### Important Numbers
+
 On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy bows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
 
 | Ability    | Meaning | Modifies |
@@ -166,7 +169,7 @@ There are three pillars to gameplay: **exploration** of the game world, **intera
 ### Exploration 🔍
 _TL;DR: Look for clues, traps, treasure and secrets._
 
-Exploration is the primary mechanic when there are no non-player characters or monsters around. This usually means looking around the environment for clues or secrets, discovering or using items, or solving puzzles. Gameplay elements often involve, but aren't limited to:
+Exploration is the primary mechanic when there are no non-player characters or monsters around. This usually means **looking around** the environment for clues or secrets, discovering or using items, or solving puzzles. Gameplay elements often involve, but aren't limited to:
 
 * Solving puzzles
 * Surmounting obstacles (climbing walls, lockpicking, etc.)
@@ -179,7 +182,7 @@ Exploration is the primary mechanic when there are no non-player characters or m
 ### Interaction 💬
 _TL;DR: Use disguises and sexuality to acquire information._
 
-Eventually, players will encounter non-player characters. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
+Eventually, players will encounter **non-player characters**. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
 
 * Sexual seduction
 * Threats of violence
@@ -191,9 +194,39 @@ Eventually, players will encounter non-player characters. These might be guards,
 ### Combat ⚔
 _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how much damage you did._
 
-At some point, players will encounter violent monsters. There are no limits to how they can interact with those monsters, but there are rules for melee (sword-type), ranged (bow-type) and magic combat.
+At some point, players will encounter **violent monsters**. There are no limits to how they can interact with those monsters, but there are rules for melee (sword-type), ranged (bow-type) and magic combat.
 
-As a rule of thumb, a player's turn represents about 
+As a rule of thumb, a player's turn represents about **10 seconds** of elapsed game time. So, if a player wants to climb a ladder, untie a rope and swing into a monster, that would take successful rolls across three turns.
+
+The Dungeon Master should try to keep track of the general positions of the players and the monsters so that they can only hit each other if they're close to each other. Generally though, they shouldn't be too strict about this and should just let the combat flow naturally.
+
+Combat strikes happen in two phases (in the same turn): rolls to hit, and rolls to deal damage.
+
+#### Attacking
+
+To attack, a player declares who they are going to hit and what they want to hit with. For example, _"I strike at the nearest Goblin with my hand-axe."_
+
+The attack roll is a normal **D20 roll, plus the Attack bonus** (STR or DEX + Proficiency) listed on the character sheet for that weapon. If the resulting number is higher than the enemy's Armour Class, then the attack counts as a hit. If not, then the attack misses, and the turn passes to the next player.
+
+If the attack roll is a hit, then the player rolls another dice (listed on the character sheet for each weapon), and that number is subtracted from the monster's hit points. If resulting hit points are less than zero, then the monster dies.
+
+To spice up the combat, the Dungeon Master should narrate all attacks in explicit gory detail. **Natural 1s** and **natural 20s** should result in spectular self-inflicted wounds and damaging strikes, respectively.
+
+#### Defending
+
+Defending is the same process as attacking, but in reverse. The Dungeon Master rolls for each attacking creature, and deals damage if the attack rolls are higher than the defending player's Armour Class.
+
+#### Death
+
+If a player's HP drops below 0, they die. This generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death inexchange for humiliating punishments.
+
+#### Experience Points and Levels
+
+After winning a combat round or complete a quest, players are rewarded with **Experience Points (XP)**. When a player gets enough  XP, they increase their level by one.
+
+Levelling up gives a player **two +1 points** to improve their abilities of their choosing, and adds **6 + CON** to that player's Hit Points. They don't immediately heal to full health, but they do get the new hit points.
+
+XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 23000, 34000, 48000, 64000, 85000, 100000, 120000, 140000, 165000, 195000, 225000, 265000, 305000 and 355000_ points.
 
 ## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
