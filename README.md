@@ -74,7 +74,7 @@ Choose one:
 ### Class
 _TL;DR: What can you do?_
 
-Class defines the **skills and motivations** of your character. 
+Class defines the **skills and abilities** of your character. 
 
 Some can use magic, some are good at melee combat, some are good a ranged weaponry, and some are good at seduction. Pick the one that you think would be fun role play as!
 
@@ -96,7 +96,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 ### Alignment
 _TL;DR: How do you behave - good or bad? Lawful or criminal?_
 
-Alignment describes how your character **behaves**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
+Alignment describes your character's **motivations and behavior**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
 
 Again, choose one you think would be fun:
 
