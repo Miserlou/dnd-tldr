@@ -1,4 +1,4 @@
-![dnd-tl;dr](http://i.imgur.com/p82OM7m.png)
+![dnd-tl;dr](http://i.imgur.com/WUdJn3h.png)
 # DnD: TL;DR [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
 
 ## A Fast and Loose Guide to Dungeons and Dragons
