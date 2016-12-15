@@ -11,7 +11,7 @@ _Too long, didn't read: This guide makes DnD super fun and easy._
 
 This is a guide for new players and dungeon masters who want to play a **fast-paced, fun-optimized** version of the game. We prefer fun and hilarity over rule-following.
 
-Ideally, this guide should be all you need to play a fun game with friends, newbies, normies, hesitant significant others, skeptics and moms. Typically people who have watched Stranger Things are pretty into it.
+Ideally, this guide should be all you need to play a fun game with friends, newbies, normies, hesitant significant others, skeptics and moms. Typically people who have watched _Stranger Things_ are into it and have a really good time.
 
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
@@ -133,9 +133,26 @@ Finally, make a name. A good DM will enforce that you call all the other players
 
 Alternately, you can just use this [character name generator](https://www.wizards.com/dnd/article5.asp?x=dnd/dx20010202b) and see what happens.
 
-#### Character Sheets
+### Character Sheets
 
 Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
+
+On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy bows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
+
+| Ability    | Meaning | Modifies |
+|:------------- |:----------------|:-------------|
+| Strength (STR)  | Physical strength | Moving things, hitting things, breaking doors, doing damage |
+| Dexterity (DEX) | Gymnastic ability | Generates armour class, climbing, dodging, balancing, archery |
+| Constitution (CON) | Health and stamina | Generates hit points, concentration |
+| Intelligence (INT) | Reasoning and learning | Deciphering, appraising, forgery, searching, spellcasting |
+| Wisdom (WIS) | Knowledge, gut feelings | Knowing arcane knowledge, sensing traps and secrets, listening, healing |
+| Charisma (CHA) | Seductive ability | Seduction, charm, deception, disguise, animal taming |
+
+When you try to do one of the those types of things, add your modifier to your roll. 
+
+<!--Armour class is:
+10 + armor bonus + shield bonus + Dexterity modifier
+Hit Points are:-->
 
 ## Gameplay 🎲
 _TL;DR: Just roll a D20 and see what happens._
@@ -154,6 +171,7 @@ Exploration is the primary mechanic when there are no non-player characters or m
 * Solving puzzles
 * Surmounting obstacles (climbing walls, lockpicking, etc.)
 * Looking for treasure
+* Taming animals
 * Stealthy intrusion and escape
 * Discovering and setting traps
 * Starting fires and other diversions
@@ -164,6 +182,7 @@ _TL;DR: Use disguises and sexuality to acquire information._
 Eventually, players will encounter non-player characters. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
 
 * Sexual seduction
+* Threats of violence
 * Disguise, trickery and slight-of-hand
 * Bribery
 * Kidnapping, interrogation, and torture
@@ -172,12 +191,16 @@ Eventually, players will encounter non-player characters. These might be guards,
 ### Combat ⚔
 _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how much damage you did._
 
-TODO
+At some point, players will encounter violent monsters. There are no limits to how they can interact with those monsters, but there are rules for melee (sword-type), ranged (bow-type) and magic combat.
+
+As a rule of thumb, a player's turn represents about 
 
 ## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
 
 As a dungeon master, your job is to make the other players have as much fun as possible. 
+
+#### Speed
 
 Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them. 
 
@@ -186,6 +209,8 @@ Don't let players take too long for their turns or the game becomes boring. It r
 To make sure that the game moves along quickly, if somebody asks you if they can do something, the best answer to give them is *"roll for it!"*
 
 If the players are all playing along nicely, solving your puzzles and coming up with creative solutions to your problems, you can reward them with **inspiration points**, which acts like a currency that they can use to improve the results of their roles.
+
+#### Adjusting Play
 
 Different players like different things, so feel free to adjust your campaign to suit their needs. If they like combat, throw a bunch of enemies at them. If they like exploration, create puzzles for them to solve. If they like interaction, create interesting characters for them to talk to. A good campaign will have a balance of all these.
 
@@ -206,7 +231,7 @@ I like the _Adventurer's League_ series because the missions are short and the f
 
 * [Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf)
 
-### Making Your Own
+### Making Your Own Campaigns
 
 I haven't done this yet. Advice welcome!
 
@@ -216,9 +241,18 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 
 ## Other Resources 📚
 
+#### Official
+
+* [Player's Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf)
+* [Dungeon Master's Basic Rules](http://media.wizards.com/2016/downloads/DND/DMBasicRulesV05.pdf)
+* [Monster Manual](http://d20.sabotender.com/5th/Source/DnD%205e%20Monsters%20Manual.pdf)
+
+#### Unofficial
+
 * [Ronny's Character Creation Guide](https://olddungeonmaster.files.wordpress.com/2016/04/character_creation.pdf)
-* [Old Dungeon Master](https://olddungeonmaster.wordpress.com)
-* [DnD Subreddit](https://www.reddit.com/r/DnD/)
+* [Old Dungeon Master Blog](https://olddungeonmaster.wordpress.com)
+* [r/DnD Subreddit](https://www.reddit.com/r/DnD/)
+* [D and D Wiki](https://www.dandwiki.com/wiki/How_Combat_Works_(Basic_D%26D))
 
 ## Improving this Guide 🔀
 
