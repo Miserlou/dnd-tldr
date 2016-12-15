@@ -33,13 +33,13 @@ _TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In 
 
 Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.
 
-Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnome Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
+Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
 
-Each player will need to choose a race, a class, an alignment, and a name. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/).
+Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/).
 
-You'll probably want to make sure that your party has good a balance of skills. You can't all be Han Solo!
+You'll probably want to make sure that your party has good a balance of skills and personalities. _You can't all be Han Solo!_
 
-If you're super lazy, just use these characters, which should suit any starting campaign:
+If you're super lazy, just use these characters for your party, which should suit any starting campaign:
 
 * [Half-Orc Barbarian](character_sheets/half-orc_barbarian.pdf)
 * [Human Cleric](character_sheets/human_cleric.pdf)
