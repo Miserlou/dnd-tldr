@@ -11,31 +11,41 @@ This is a guide for new players and dungeon masters to play a **fast-paced, fun-
 
 Ideally, this should be all you need so that you can play with normies, hesitant significant others, skeptics and moms. Typically people who have watched Stranger Things are pretty into it.
 
+## Requirements
+_TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
+
+* 2-4 **players** + 1 Dungeon Master 👨👩👨👩
+* **Pen and paper** for each player 📝📝📝📝
+* A set of **game dice** for each player 🎲🎲🎲🎲
+   * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
+* 4-6 **beers** per player 🍺🍺🍺🍺
+* Costumes/Hats (Optional)
+	* The game is more fun if you all get into character with dorky hats
+
 ## Basic Overview
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
 
-TODO
+Dungeons and Dragons a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
-## Requirements
-_TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
+There are very few rules to the game, so creativity and ingenuity are rewarded. The players will be placed into challenging situations, (such as fighting an army of monsters, discovering and deciphering mysterious clues, and interrogating, seducing and deceiving non-player characters), and will have to use their imaginations to devise ways to overcome those challenges.
 
-* 2-4 **players** + 1 Dungeon Master
-* **Pen and paper** for each player
-* A set of **dice** for each player
-   * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
-* 4-6 **beers** per player
-* Hats (Optional)
-	* The game is more fun if you all get into character with dorky hats
+The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20. 
+
+The Dungeon Master decides to themself how difficult that task is (out of 20), and if the dice scores higher than that number then the player succeeds, and if not then they fail. The Dungeon Master then narrates the result of the action (_"You try to swing across the gaping chasm, but your grip slips half-way across, and you fall to the canyon floor. You take two damage. You see glowing eyes in the darkness."_)
+
+Natural rolls of 1 and 20 result in spectacular failures and success, respectively.
+
+The goal of the game is simply to play the game, because it is fun! 
 
 ## Making Characters
 _TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
 
-Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.
+<!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
 
 Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
 
-Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/).
+Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/). Choose a combination that you think will be fun to play as.
 
 You'll probably want to make sure that your party has good a balance of skills and personalities. _You can't all be Han Solo!_
 
@@ -65,8 +75,8 @@ Choose one:
 | Gnome      | Very Small | Cunning, sees in the dark |
 | Dwarf      | Small | Resilient, sees in the dark |
 | Elf      | Short | Keen senses |
-| Half-Elf      | Short | Fairly useless |
-| Tiefling      | Short | Has horns and a tail |
+| Half-Elf      | Short-ish | Fairly useless |
+| Tiefling      | Regular | Has horns and a tail |
 | Human        | Regular | You know what humans are |
 | Half-Orc        | Tall | Savage |
 | Dragonborn       | Taller | Scales, tough |
@@ -116,7 +126,7 @@ _TL;DR: Just roll a D20 and see what happens._
 
 Okay! Now you're ready to play. The Dungeon Master is going to read a little narative exposition, then you're off!
 
-TODO
+There are three pillars to gameplay: **exploration** of the game world, **interaction** with non-player characters, and **combat** with monsters.
 
 ### Exploration
 
