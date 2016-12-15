@@ -24,39 +24,6 @@ _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 * Costumes/Hats (Optional)
 	* The game is more fun if you all get into character with dorky hats
 
-## Table of Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [DnD: TL;DR](#dnd-tldr-)
-  - [A Fast and Loose Guide to Dungeons and Dragons](#a-fast-and-loose-guide-to-dungeons-and-dragons)
-    - [by Rich Jones](#by-rich-jones)
-  - [Requirements](#requirements)
-  - [Basic Overview](#basic-overview)
-      - [Rules](#rules)
-      - [Mechanics](#mechanics)
-      - [Goals](#goals)
-  - [Making Characters](#making-characters)
-    - [Race](#race)
-    - [Class](#class)
-    - [Alignment](#alignment)
-    - [Name](#name)
-      - [Character Sheets](#character-sheets)
-  - [Gameplay](#gameplay)
-    - [Exploration](#exploration)
-    - [Interaction](#interaction)
-    - [Combat](#combat)
-  - [Dungeon Mastering](#dungeon-mastering)
-    - [Premade Campaigns](#premade-campaigns)
-      - [Official](#official)
-      - [Fan-made](#fan-made)
-    - [Making Your Own](#making-your-own)
-  - [Other Resources](#other-resources)
-  - [Improving this Guide](#improving-this-guide)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Basic Overview
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
