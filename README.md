@@ -3,6 +3,8 @@
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
+#### by Rich Jones
+
 _Too long, didn't read: This guide makes DnD super fun and easy._
 
 Dungeons and Dragons is fun, but super complicated by default. It can be very overwhelming for new players as there as so many unnecessary rules.
@@ -120,6 +122,10 @@ Again, choose one you think would be fun:
 Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or a poop joke here.
 
 Alternately, you can just use this [character name generator](https://www.wizards.com/dnd/article5.asp?x=dnd/dx20010202b) and see what happens.
+
+#### Character Sheets
+
+Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of items in your inventory that you'll start the game with.
 
 ## Gameplay
 _TL;DR: Just roll a D20 and see what happens._
