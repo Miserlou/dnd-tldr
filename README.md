@@ -1,9 +1,9 @@
-![dnd-tl;dr](http://i.imgur.com/tQzTKAt.png)
+![dnd-tl;dr](http://i.imgur.com/p82OM7m.png)
 # DnD: TL;DR [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
-#### by Rich Jones
+### by Rich Jones
 
 _Too long, didn't read: This guide makes DnD super fun and easy._
 
