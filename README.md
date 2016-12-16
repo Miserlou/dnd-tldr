@@ -88,7 +88,7 @@ Choose one:
 | Gnome      | Very Small | Cunning, sees in the dark |
 | Dwarf      | Small | Resilient, sees in the dark |
 | Elf      | Short | Keen senses |
-| Half-Elf      | Short-ish | Fairly useless |
+| Half-Elf      | Short-ish | Rare, skilled, diplomatic |
 | Tiefling      | Regular | Has horns and a tail |
 | Human        | Regular | You know what humans are |
 | Half-Orc        | Tall | Savage |
