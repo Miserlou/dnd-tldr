@@ -187,7 +187,7 @@ Eventually, players will encounter **non-player characters**. These might be gua
 
 * Sexual seduction
 * Threats of violence
-* Disguise, trickery and slight-of-hand
+* Disguise, forgery, trickery and slight-of-hand
 * Bribery
 * Kidnapping, interrogation, and torture
 * Navigating racial discrimination and crossing language barriers
