@@ -31,11 +31,11 @@ _TL;DR: Invent a character, explore a fantasy world, talk to the people living t
 
 Dungeons and Dragons a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
-#### Rules 📜
+#### Rules
 
 There are very few rules to the game, so creativity and ingenuity are rewarded. The players will be placed into challenging situations, (such as fighting an army of monsters, discovering and deciphering mysterious clues, and interrogating, seducing and deceiving non-player characters), and will have to use their imaginations to devise ways to overcome those challenges.
 
-#### Mechanics 🎲
+#### Mechanics
 
 The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20. 
 
@@ -43,7 +43,7 @@ The Dungeon Master decides to themself how difficult that task is (out of 20), a
 
 Natural rolls of 1 and 20 result in spectacular failures and success, respectively.
 
-#### Goals 😃
+#### Goals
 
 The goal of the game is simply to play the game, because it is fun! 
 
@@ -71,7 +71,7 @@ If you're super lazy, just use these characters for your party, which should sui
 
 Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand.
 
-### Race 💪
+### Race
 _TL;DR: What do you look like?_
 
 Race defines the **general physical characterics** of your character. 
@@ -94,7 +94,7 @@ Choose one:
 | Half-Orc        | Tall | Savage |
 | Dragonborn       | Taller | Scales, tough |
 
-### Class 👑
+### Class
 _TL;DR: What can you do?_
 
 Class defines the **skills and abilities** of your character. 
@@ -116,7 +116,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 | Warlock      | War magic | Cool spells |
 | Wizard      | General magic | Cool spells |
 
-### Alignment 👹
+### Alignment
 _TL;DR: How do you behave - good or bad? Lawful or criminal?_
 
 Alignment describes your character's **motivations and behavior**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
@@ -129,17 +129,17 @@ Again, choose one you think would be fun:
 | **Lawful Neutral** (Stannis Baratheon) | **True Neutral** (Saul Goodman) | **Chaotic Neutral** (Han Solo) |
 | **Lawful Evil** (Darth Vader) | **Neutral Evil** (Voldemort)  | **Chaotic Evil** (The Joker) |
 
-### Name 📇
+### Name
 
 Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or poop joke here.
 
 Alternately, you can just use this [character name generator](https://www.wizards.com/dnd/article5.asp?x=dnd/dx20010202b) and see what happens.
 
-### Character Sheets 📝
+### Character Sheets
 
 Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
 
-#### Important Numbers 🔢
+#### Important Numbers
 
 On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy blows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
 
@@ -203,7 +203,7 @@ The Dungeon Master should try to keep track of the general positions of the play
 
 Combat strikes happen in two phases (in the same turn): rolls to hit, and rolls to deal damage.
 
-#### Attacking 🔪
+#### Attacking
 
 To attack, a player declares who they are going to hit and what they want to hit with. For example, _"I strike at the nearest Goblin with my hand-axe."_
 
@@ -213,15 +213,15 @@ If the attack roll is a hit, then the player rolls another dice (listed on the c
 
 To spice up the combat, the Dungeon Master should narrate all attacks in explicit gory detail. **Natural 1s** and **natural 20s** should result in spectular self-inflicted wounds and damaging strikes, respectively.
 
-#### Defending 🔰
+#### Defending
 
 Defending is the same process as attacking, but in reverse. The Dungeon Master rolls for each attacking creature, and deals damage if the attack rolls are higher than the defending player's Armour Class.
 
-#### Death 💀
+#### Death
 
 If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a few rolls to try to stuff their guts back in or let other players take them out of immediate danger before they die completely. Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death in exchange for humiliating punishments.
 
-#### Experience Points and Levels 📈
+#### Experience Points and Levels
 
 After winning a combat round or complete a quest, players are rewarded with **Experience Points (XP)**. When a player gets enough  XP, they increase their level by one.
 
@@ -234,7 +234,7 @@ _TL;DR: Make your players have as much fun as possible by being kind of a dick t
 
 As a dungeon master, your job is to make the other players have as much fun as possible. 
 
-#### Speed ⌛
+#### Speed
 
 Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them. 
 
