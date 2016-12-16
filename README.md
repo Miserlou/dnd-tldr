@@ -141,7 +141,7 @@ Now that you've chosen your **race**, **class**, **alignment** and **name**, fin
 
 #### Important Numbers
 
-On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy bows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
+On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy blows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
 
 | Ability    | Meaning | Modifies |
 |:------------- |:----------------|:-------------|
@@ -207,7 +207,7 @@ Combat strikes happen in two phases (in the same turn): rolls to hit, and rolls 
 
 To attack, a player declares who they are going to hit and what they want to hit with. For example, _"I strike at the nearest Goblin with my hand-axe."_
 
-The attack roll is a normal **D20 roll, plus the Attack bonus** (STR or DEX + Proficiency) listed on the character sheet for that weapon. If the resulting number is higher than the enemy's Armour Class, then the attack counts as a hit. If not, then the attack misses, and the turn passes to the next player.
+The attack roll is a normal **D20 roll, plus the Attack bonus** (STR or DEX + Proficiency) listed on the character sheet for that weapon. If the resulting number is greater than or equal to the enemy's Armour Class, then the attack counts as a hit. If not, then the attack misses, and the turn passes to the next player.
 
 If the attack roll is a hit, then the player rolls another dice (listed on the character sheet for each weapon), and that number is subtracted from the monster's hit points. If resulting hit points are less than zero, then the monster dies.
 
@@ -219,7 +219,7 @@ Defending is the same process as attacking, but in reverse. The Dungeon Master r
 
 #### Death
 
-If a player's HP drops below 0, they die. This generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death in exchange for humiliating punishments.
+If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a few rolls to try to stuff their guts back in or let other players take them out of immediate danger before they die completely. Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death in exchange for humiliating punishments.
 
 #### Experience Points and Levels
 
