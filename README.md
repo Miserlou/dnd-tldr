@@ -78,7 +78,7 @@ Race defines the **general physical characterics** of your character.
 
 Race can affect how people interact with your character. Non-player characters in the games may have their own racial prejudices - for instances, if you go to a Dwarven cave, the Dwarves there might be racist towards your Elf player. This can lead to some funny situations. 
 
-Also, big characters can throw small charactors, which is always funny.
+Also, big characters can throw small characters, which is always funny.
 
 Choose one:
 
