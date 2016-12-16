@@ -1,5 +1,5 @@
 ![dnd-tl;dr](http://i.imgur.com/WUdJn3h.png)
-# DnD: TL;DR ![0.1.0](https://img.shields.io/badge/version-0.1.0-brightgreen.svg) [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
+# DnD: TL;DR ![0.1.1](https://img.shields.io/badge/version-0.1.1-brightgreen.svg) [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md)
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
