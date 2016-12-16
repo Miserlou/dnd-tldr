@@ -280,6 +280,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Player's Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf)
 * [Dungeon Master's Basic Rules](http://media.wizards.com/2016/downloads/DND/DMBasicRulesV05.pdf)
 * [Monster Manual](http://d20.sabotender.com/5th/Source/DnD%205e%20Monsters%20Manual.pdf)
+* [Spell List](https://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.0.pdf)
 
 #### Unofficial
 
@@ -287,6 +288,8 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Old Dungeon Master Blog](https://olddungeonmaster.wordpress.com)
 * [r/DnD Subreddit](https://www.reddit.com/r/DnD/)
 * [D and D Wiki](https://www.dandwiki.com/wiki/How_Combat_Works_(Basic_D%26D))
+* [Elven Tower Map Vault](http://www.elventower.com/archives/869)
+* [Donjon's Printable Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
 
 ## Improving this Guide 🔀
 
