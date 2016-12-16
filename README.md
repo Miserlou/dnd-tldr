@@ -242,7 +242,7 @@ Don't let players take too long for their turns or the game becomes boring. It r
 
 To make sure that the game moves along quickly, if somebody asks you if they can do something, the best answer to give them is *"roll for it!"*
 
-If the players are all playing along nicely, solving your puzzles and coming up with creative solutions to your problems, you can reward them with **inspiration points**, which acts like a currency that they can use to improve the results of their roles.
+If the players are all playing along nicely, solving your puzzles and coming up with creative solutions to your problems, you can reward them with **inspiration points**, which acts like a currency that they can use to improve the results of their rolls.
 
 #### Adjusting Play
 
