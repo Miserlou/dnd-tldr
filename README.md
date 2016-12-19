@@ -16,7 +16,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
-* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
+* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩 + :bowtie:
 * **Pen and paper** for each player 📝📝📝📝
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
@@ -56,7 +56,7 @@ _TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In 
 
 <!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
 
-Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
+Every player other than the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
 
 Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/). Choose a combination that you think will be fun to play as.
 
