@@ -108,7 +108,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 | Cleric      | Religious magic | Healing |
 | Druid      | Natural magic | Potions, plants/animals |
 | Fighter    | Combat | Fighting. Duh. |
-| Monk      | Natural magic, kung-fu | Potions, plants/animals |
+| Monk      | Religious kung-fu | Kung-fu, potions, plants/animals |
 | Paladin      | Religious knight | Religious violence, chivalry |
 | Ranger      | Scouting | Archery, stealth |
 | Rogue      | Criminal | Thievery, lockpicking, ruses |
@@ -290,6 +290,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [D and D Wiki](https://www.dandwiki.com/wiki/How_Combat_Works_(Basic_D%26D))
 * [Elven Tower Map Vault](http://www.elventower.com/archives/869)
 * [Donjon's Printable Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
+* [Dungeon World](http://www.dungeon-world.com/) - another simplified tabletop game
 
 ## Improving this Guide 🔀
 
