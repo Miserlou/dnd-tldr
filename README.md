@@ -108,7 +108,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 | Cleric      | Religious magic | Healing |
 | Druid      | Natural magic | Potions, plants/animals |
 | Fighter    | Combat | Fighting. Duh. |
-| Monk      | Natural magic | Potions, plants/animals |
+| Monk      | Natural magic, kung-fu | Potions, plants/animals |
 | Paladin      | Religious knight | Religious violence, chivalry |
 | Ranger      | Scouting | Archery, stealth |
 | Rogue      | Criminal | Thievery, lockpicking, ruses |
