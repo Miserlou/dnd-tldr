@@ -291,6 +291,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Elven Tower Map Vault](http://www.elventower.com/archives/869)
 * [Donjon's Printable Random Dungeon Generator](https://donjon.bin.sh/5e/dungeon/)
 * [Dungeon World](http://www.dungeon-world.com/) - another simplified tabletop game
+* [The Homebrewery](http://homebrewery.naturalcrit.com/) - Lets you write campaigns in Markdown, but renders them as if they were official guides. Pretty awesome.
 
 ## Improving this Guide 🔀
 
