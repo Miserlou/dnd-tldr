@@ -13,6 +13,43 @@ This is a guide for new players and dungeon masters who want to play a **fast-pa
 
 Ideally, this guide should be all you need to play a fun game with friends, newbies, normies, hesitant significant others, skeptics and moms. Typically people who have watched _Stranger Things_ are into it and have a really good time.
 
+## Table of Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [Requirements](#requirements)
+- [Basic Overview](#basic-overview)
+  - [Rules](#rules)
+  - [Mechanics](#mechanics)
+  - [Goals](#goals)
+- [Making Characters 👫](#making-characters-%F0%9F%91%AB)
+- [Race](#race)
+- [Class](#class)
+- [Alignment](#alignment)
+- [Name](#name)
+- [Character Sheets](#character-sheets)
+  - [Important Numbers](#important-numbers)
+- [Gameplay 🎲](#gameplay-%F0%9F%8E%B2)
+- [Exploration 🔍](#exploration-%F0%9F%94%8D)
+- [Interaction 💬](#interaction-%F0%9F%92%AC)
+- [Combat ⚔](#combat-%E2%9A%94)
+  - [Attacking](#attacking)
+  - [Defending](#defending)
+  - [Death](#death)
+  - [Experience Points and Levels](#experience-points-and-levels)
+- [Dungeon Mastering 🐉](#dungeon-mastering-%F0%9F%90%89)
+  - [Speed](#speed)
+  - [Adjusting Play](#adjusting-play)
+- [Premade Campaigns](#premade-campaigns)
+  - [Official](#official)
+  - [Fan-made](#fan-made)
+- [Making Your Own Campaigns](#making-your-own-campaigns)
+- [Other Resources 📚](#other-resources-%F0%9F%93%9A)
+  - [Official](#official-1)
+  - [Unofficial](#unofficial)
+- [Improving this Guide 🔀](#improving-this-guide-%F0%9F%94%80)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Requirements
 _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 
