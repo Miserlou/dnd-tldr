@@ -301,14 +301,18 @@ The internet is full of pre-made campaigns of varying quality. Most of the offic
 
 I like the _Adventurer's League_ series because the missions are short and the files are well formatted, but because the missions are short they don't go as deep. Try to find one that's right for your players!
 
+There are also many unofficial fan-made campaigns that are just as good as the official ones. (If you have any favorites, please send pull requests to this repository!)
+
 #### Official
 
-* [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf)
+* [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf) - Perfect for beginners.
 * [Defiance in Phlan](https://www.scribd.com/doc/241684556/DDEX11-Defiance-in-Phlan)
 
 #### Fan-made
 
-* [Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf)
+* [Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf) - A quest for when all of your players are dead.
+* [The Mad Wizard: Meatworld is a Place of Madness](https://drive.google.com/file/d/0ByRI_bwghOr1TFQ2cS00VXBFVzA/view) - A Lovecraftian horror.
+* [The Ancient's Lab](http://homebrewery.naturalcrit.com/share/SyBdnURLNZ) - A one-shot adventure based on _The Thing_.
 
 ### Making Your Own Campaigns
 
@@ -338,6 +342,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Dungeon World](http://www.dungeon-world.com/) - another simplified tabletop game
 * [The Homebrewery](http://homebrewery.naturalcrit.com/) - Lets you write campaigns in Markdown, but renders them as if they were official guides. Pretty awesome.
 * [OrcPub](http://www.orcpub.com/) - Online 5e character generator tool.
+* [Kobold Fight Club](http://kobold.club/fight/#/encounter-builder) - An online encounter building tool.
 
 ## Improving this Guide 🔀
 
