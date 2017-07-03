@@ -1,5 +1,5 @@
 ![dnd-tl;dr](http://i.imgur.com/WUdJn3h.png)
-# DnD: TL;DR ![0.1.1](https://img.shields.io/badge/version-0.1.1-brightgreen.svg) [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md) [![](https://img.shields.io/badge/license-CC.BY.SA-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+# DnD: TL;DR ![0.1.2](https://img.shields.io/badge/version-0.1.1-brightgreen.svg) [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md) [![](https://img.shields.io/badge/license-CC.BY.SA-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## A Fast and Loose Guide to Dungeons and Dragons
 
@@ -219,7 +219,15 @@ Defending is the same process as attacking, but in reverse. The Dungeon Master r
 
 #### Death
 
-If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a few rolls to try to stuff their guts back in or let other players take them out of immediate danger before they die completely. Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. You can also introduce Death as a non-player character and have the player barter with Death in exchange for humiliating punishments.
+If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a free roll to try to stuff their guts back in, or let other players take them out of immediate danger before they die completely. 
+
+Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. 
+
+You can also introduce **ＤＥＡＴＨ** as a non-player character and have the player barter with ＤＥＡＴＨ in exchange for humiliating punishments, or challenge them to a game of "street craps", where you each throw all of your dice and count the number of pairwise wins.
+
+If a player dies completely, you can have them hang around as a ghost who has no items but can still gently interact with objects, and, if they roll exceptionally well, lightly posess nearby non-player characters. The other players are responsible for dragging the corpse along for the rest of the quest until it can be revived.
+
+If _all_ your players die, you can send them on the fan-made _**[Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf)**_ campaign, which lets the players fight their way out of Hell and back to your game world.
 
 #### Experience Points and Levels
 
