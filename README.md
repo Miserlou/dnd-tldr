@@ -60,7 +60,7 @@ _TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
 * 4-6 **beers** per player 🍺🍺🍺🍺
 * **Speakers** for playing [epic background music](http://tabletopaudio.com/) 🔈
 * Costumes/Hats (Optional)
-	* The game is more fun if you all get into character with dorky hats
+	* The game is more fun if you all get into character with dorky hats.
 
 ## Basic Overview
 
