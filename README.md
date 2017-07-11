@@ -307,6 +307,7 @@ There are also many unofficial fan-made campaigns that are just as good as the o
 
 * [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf) - Perfect for beginners.
 * [Defiance in Phlan](https://www.scribd.com/doc/241684556/DDEX11-Defiance-in-Phlan)
+* [Lost Mines of Phandelver](https://dnd.rem.uz/5e%20D%26D%20Books/Adventures/Starter%20Set/Lost%20Mine%20of%20Phandelver%20%281-5%29.pdf)
 
 #### Fan-made
 
@@ -343,6 +344,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [The Homebrewery](http://homebrewery.naturalcrit.com/) - Lets you write campaigns in Markdown, but renders them as if they were official guides. Pretty awesome.
 * [OrcPub](http://www.orcpub.com/) - Online 5e character generator tool.
 * [Kobold Fight Club](http://kobold.club/fight/#/encounter-builder) - An online encounter building tool.
+* [DND.REM.UZ](https://dnd.rem.uz/) - Huge archive of official and fan-made rule books, adventures and guides.
 
 ## Improving this Guide 🔀
 
