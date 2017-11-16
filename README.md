@@ -345,6 +345,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [OrcPub](http://www.orcpub.com/) - Online 5e character generator tool.
 * [Kobold Fight Club](http://kobold.club/fight/#/encounter-builder) - An online encounter building tool.
 * [DND.REM.UZ](https://dnd.rem.uz/) - Huge archive of official and fan-made rule books, adventures and guides.
+* [Random Magic Items by Birdoge](http://homebrewery.naturalcrit.com/share/r1KmavcyG) - Roll to generate magical item drops.
 
 ## Improving this Guide 🔀
 
