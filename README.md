@@ -308,6 +308,7 @@ There are also many unofficial fan-made campaigns that are just as good as the o
 * [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf) - Perfect for beginners.
 * [Defiance in Phlan](https://www.scribd.com/doc/241684556/DDEX11-Defiance-in-Phlan)
 * [Lost Mines of Phandelver](https://dnd.rem.uz/5e%20D%26D%20Books/Adventures/Starter%20Set/Lost%20Mine%20of%20Phandelver%20%281-5%29.pdf)
+* [Death House](https://media.wizards.com/2016/downloads/DND/Curse%20of%20Strahd%20Introductory%20Adventure.pdf)
 
 #### Fan-made
 
