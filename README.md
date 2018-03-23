@@ -106,7 +106,7 @@ If you're super lazy, just use these characters for your party, which should sui
 * [Elven Ranger](character_sheets/elf_ranger.pdf)
 * [Tiefling Rogue](character_sheets/tiefling_rogue.pdf) 
 
-Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand.
+Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand. A [combined PDF](character_sheets/default_party/default_party.pdf) of the default party is also provided.
 
 ### Race
 _TL;DR: What do you look like?_
