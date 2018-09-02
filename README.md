@@ -29,7 +29,7 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
 - [Character Sheets](#character-sheets)
   - [Important Numbers](#important-numbers)
 - [Gameplay 🎲](#gameplay-)
-- [Exploration 🔍](#exploration-
+- [Exploration 🔍](#exploration-)
 - [Interaction 💬](#interaction-)
 - [Combat ⚔](#combat--)
   - [Attacking](#attacking)
