@@ -51,20 +51,20 @@ Ideally, this guide should be all you need to play a fun game with friends, newb
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
-_TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
+_TL;DR: Friends, a printer, some PDFs, some pens, hecka drinks._
 
 * 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
 * **Pen and paper** for each player 📝📝📝📝
 * A set of **game dice** for each player 🎲🎲🎲🎲
    * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
-* 4-6 **beers** per player 🍺🍺🍺🍺
+* 4-6 **drinks** per player 🍺🍺🍺🍺
 * **Speakers** for playing [epic background music](http://tabletopaudio.com/) 🔈
 * Costumes/Hats (Optional)
 	* The game is more fun if you all get into character with dorky hats.
 
 ## Basic Overview
 
-_TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
+_TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink drinks, yell at your friends and have fun._
 
 Dungeons and Dragons a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
@@ -74,7 +74,7 @@ There are very few rules to the game, so creativity and ingenuity are rewarded. 
 
 #### Mechanics
 
-The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20. 
+The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20.
 
 The Dungeon Master decides to themself how difficult that task is (out of 20), and if the dice scores higher than that number then the player succeeds, and if not then they fail. The Dungeon Master then narrates the result of the action (_"You try to swing across the gaping chasm, but your grip slips half-way across, and you fall to the canyon floor. You take two damage. You see glowing eyes in the darkness."_)
 
@@ -82,9 +82,9 @@ Natural rolls of 1 and 20 result in spectacular failures and success, respective
 
 #### Goals
 
-The goal of the game is simply to play the game, because it is fun! 
+The goal of the game is simply to play the game, because it is fun!
 
-Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultimately, it's all up to you. Want to start a peasant revolt against the evil king? Go ahead! Want to turn a dragon into your pet and become the ruler of the land? Roll for it! Want to start a seedy brothel? Uh, sure! 
+Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultimately, it's all up to you. Want to start a peasant revolt against the evil king? Go ahead! Want to turn a dragon into your pet and become the ruler of the land? Roll for it! Want to start a seedy brothel? Uh, sure!
 
 The only limits are your imagination and the rolls of dice. Have fun!
 
@@ -104,16 +104,16 @@ If you're super lazy, just use these characters for your party, which should sui
 * [Half-Orc Barbarian](character_sheets/half-orc_barbarian.pdf)
 * [Human Cleric](character_sheets/human_cleric.pdf)
 * [Elven Ranger](character_sheets/elf_ranger.pdf)
-* [Tiefling Rogue](character_sheets/tiefling_rogue.pdf) 
+* [Tiefling Rogue](character_sheets/tiefling_rogue.pdf)
 
 Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand. A [combined PDF](character_sheets/default_party/default_party.pdf) of the default party is also provided.
 
 ### Race
 _TL;DR: What do you look like?_
 
-Race defines the **general physical characterics** of your character. 
+Race defines the **general physical characterics** of your character.
 
-Race can affect how people interact with your character. Non-player characters in the games may have their own racial prejudices - for instances, if you go to a Dwarven cave, the Dwarves there might be racist towards your Elf player. This can lead to some funny situations. 
+Race can affect how people interact with your character. Non-player characters in the games may have their own racial prejudices - for instances, if you go to a Dwarven cave, the Dwarves there might be racist towards your Elf player. This can lead to some funny situations.
 
 Also, big characters can throw small characters, which is always funny.
 
@@ -134,7 +134,7 @@ Choose one:
 ### Class
 _TL;DR: What can you do?_
 
-Class defines the **skills and abilities** of your character. 
+Class defines the **skills and abilities** of your character.
 
 Some can use magic, some are good at melee combat, some are good a ranged weaponry, and some are good at seduction. Pick the one that you think would be fun role play as!
 
@@ -156,7 +156,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 ### Alignment
 _TL;DR: How do you behave - good or bad? Lawful or criminal?_
 
-Alignment describes your character's **motivations and behavior**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc. 
+Alignment describes your character's **motivations and behavior**. There are two axis here: good and evil, lawful and chaotic. These map pretty well to archetypical movie characters, Darth Vader is lawful evil, Han Solo is chaotic neutral, etc.
 
 Again, choose one you think would be fun:
 
@@ -189,7 +189,7 @@ On your sheet, there are a few important numbers (and some unimportant ones that
 | Wisdom (WIS) | Knowledge, gut feelings | Knowing arcane knowledge, sensing traps and secrets, listening, healing |
 | Charisma (CHA) | Seductive ability | Seduction, charm, deception, disguise, animal taming |
 
-When you try to do one of the those types of things, add your modifier to your roll. 
+When you try to do one of the those types of things, add your modifier to your roll.
 
 <!--Armour class is:
 10 + armor bonus + shield bonus + Dexterity modifier
@@ -256,9 +256,9 @@ Defending is the same process as attacking, but in reverse. The Dungeon Master r
 
 #### Death
 
-If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a free roll to try to stuff their guts back in, or let other players take them out of immediate danger before they die completely. 
+If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a free roll to try to stuff their guts back in, or let other players take them out of immediate danger before they die completely.
 
-Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. 
+Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die.
 
 You can also introduce **ＤＥＡＴＨ** as a non-player character and have the player barter with ＤＥＡＴＨ in exchange for humiliating punishments, or challenge them to a game of "street craps", where you each throw all of your dice and count the number of pairwise wins.
 
@@ -277,11 +277,11 @@ XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 
 ## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
 
-As a dungeon master, your job is to make the other players have as much fun as possible. 
+As a dungeon master, your job is to make the other players have as much fun as possible.
 
 #### Speed
 
-Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them. 
+Make sure that all the players at the table are engaged, and that nobody is hogging all the action. If somebody is trying to derail your game too much, feel throw to use divine intervention to throw punishments at them.
 
 Don't let players take too long for their turns or the game becomes boring. It really shouldn't take more than 30 seconds a turn. If this becomes a problem, use a timer.
 
@@ -347,7 +347,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Kobold Fight Club](http://kobold.club/fight/#/encounter-builder) - An online encounter building tool.
 * [DND.REM.UZ](https://dnd.rem.uz/) - Huge archive of official and fan-made rule books, adventures and guides.
 * [Random Magic Items by Birdoge](http://homebrewery.naturalcrit.com/share/r1KmavcyG) - Roll to generate magical item drops.
-* [Dungeon Master's Cheat Sheet](https://drive.google.com/file/d/1gvF41bzue3YGmiSRJBTv-eELkKVGJvDk/view) - Handy! by [/u/dm_magic](https://www.reddit.com/r/dndnext/comments/85xozd/i_made_a_dd_reference_sheet/) 
+* [Dungeon Master's Cheat Sheet](https://drive.google.com/file/d/1gvF41bzue3YGmiSRJBTv-eELkKVGJvDk/view) - Handy! by [/u/dm_magic](https://www.reddit.com/r/dndnext/comments/85xozd/i_made_a_dd_reference_sheet/)
 
 ## Improving this Guide 🔀
 
