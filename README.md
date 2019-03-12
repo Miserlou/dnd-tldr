@@ -348,6 +348,8 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [DND.REM.UZ](https://dnd.rem.uz/) - Huge archive of official and fan-made rule books, adventures and guides.
 * [Random Magic Items by Birdoge](http://homebrewery.naturalcrit.com/share/r1KmavcyG) - Roll to generate magical item drops.
 * [Dungeon Master's Cheat Sheet](https://drive.google.com/file/d/1gvF41bzue3YGmiSRJBTv-eELkKVGJvDk/view) - Handy! by [/u/dm_magic](https://www.reddit.com/r/dndnext/comments/85xozd/i_made_a_dd_reference_sheet/) 
+* [Sane Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view) - A PDF of items which you can let your players shop for.
+* [Sane Item Prices, Searchable](https://docs.google.com/spreadsheets/d/1OG7UsbsjNFX4zVkDORiem1ySUGYrhu-wrTRnGEk4jgc/edit#gid=0) - Same as above, but as a Google Docs spreadsheet.
 
 ## Improving this Guide 🔀
 
