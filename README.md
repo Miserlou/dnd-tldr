@@ -345,7 +345,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [The Homebrewery](http://homebrewery.naturalcrit.com/) - Lets you write campaigns in Markdown, but renders them as if they were official guides. Pretty awesome.
 * [OrcPub](http://www.orcpub.com/) - Online 5e character generator tool.
 * [Kobold Fight Club](http://kobold.club/fight/#/encounter-builder) - An online encounter building tool.
-* [DND.REM.UZ](https://dnd.rem.uz/) - Huge archive of official and fan-made rule books, adventures and guides.
+* [The Trove](https://thetrove.net/Books/Dungeons%20&%20Dragons/) - Huge archive of official and fan-made rule books, adventures and guides.
 * [Random Magic Items by Birdoge](http://homebrewery.naturalcrit.com/share/r1KmavcyG) - Roll to generate magical item drops.
 * [Dungeon Master's Cheat Sheet](https://drive.google.com/file/d/1gvF41bzue3YGmiSRJBTv-eELkKVGJvDk/view) - Handy! by [/u/dm_magic](https://www.reddit.com/r/dndnext/comments/85xozd/i_made_a_dd_reference_sheet/) 
 * [Sane Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view) - A PDF of items which you can let your players shop for.
