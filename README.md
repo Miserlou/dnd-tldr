@@ -124,7 +124,7 @@ Choose one:
 | Halfling      | Tiny | Nimble, brave (basically just Hobbits) |
 | Gnome      | Very Small | Cunning, sees in the dark |
 | Dwarf      | Small | Resilient, sees in the dark |
-| Elf      | Short | Keen senses |
+| Elf      | Short | Keen senses, sees in the dark |
 | Half-Elf      | Short-ish | Rare, skilled, diplomatic |
 | Tiefling      | Regular | Has horns and a tail |
 | Human        | Regular | You know what humans are |
@@ -350,6 +350,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Dungeon Master's Cheat Sheet](https://drive.google.com/file/d/1gvF41bzue3YGmiSRJBTv-eELkKVGJvDk/view) - Handy! by [/u/dm_magic](https://www.reddit.com/r/dndnext/comments/85xozd/i_made_a_dd_reference_sheet/) 
 * [Sane Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view) - A PDF of items which you can let your players shop for.
 * [Sane Item Prices, Searchable](https://docs.google.com/spreadsheets/d/1OG7UsbsjNFX4zVkDORiem1ySUGYrhu-wrTRnGEk4jgc/edit#gid=0) - Same as above, but as a Google Docs spreadsheet.
+* [5etools](https://5e.tools) - A pretty comprehensive toolset for players & GMs, contains a lot of content for referencing.
 
 ## Improving this Guide 🔀
 
