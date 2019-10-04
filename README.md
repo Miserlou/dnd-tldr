@@ -124,7 +124,7 @@ Choose one:
 | Halfling      | Tiny | Nimble, brave (basically just Hobbits) |
 | Gnome      | Very Small | Cunning, sees in the dark |
 | Dwarf      | Small | Resilient, sees in the dark |
-| Elf      | Short | Keen senses |
+| Elf      | Short | Keen senses, sees in the dark |
 | Half-Elf      | Short-ish | Rare, skilled, diplomatic |
 | Tiefling      | Regular | Has horns and a tail |
 | Human        | Regular | You know what humans are |
