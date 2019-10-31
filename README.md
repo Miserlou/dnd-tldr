@@ -136,7 +136,7 @@ _TL;DR: What can you do?_
 
 Class defines the **skills and abilities** of your character. 
 
-Some can use magic, some are good at melee combat, some are good a ranged weaponry, and some are good at seduction. Pick the one that you think would be fun role play as!
+Some can use magic, some are good at melee combat, some are good at ranged weaponry, and some are good at seduction. Pick the one that you think would be fun role play as!
 
 | Class    | Quality | Good at |
 |:------------- |:----------------|:-------------|
