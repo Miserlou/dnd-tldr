@@ -352,6 +352,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Sane Item Prices, Searchable](https://docs.google.com/spreadsheets/d/1OG7UsbsjNFX4zVkDORiem1ySUGYrhu-wrTRnGEk4jgc/edit#gid=0) - Same as above, but as a Google Docs spreadsheet.
 * [5etools](https://5e.tools) - A pretty comprehensive toolset for players & GMs, contains a lot of content for referencing.
 * [D&D Compendium](https://www.dnd-compendium.com/home) - A resource for over 700 D&D resources. 
+* [D&D Shop Catalog v1.8](https://drive.google.com/file/d/1V_udNPxlTk_ufSyLsZ4caIO5LqFmE5LO/view) - Shop item list.
 
 ## Improving this Guide 🔀
 
