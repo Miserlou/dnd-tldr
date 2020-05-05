@@ -318,7 +318,23 @@ There are also many unofficial fan-made campaigns that are just as good as the o
 
 ### Making Your Own Campaigns
 
-I haven't done this yet. Advice welcome!
+_TL;DR: Make it up as you go
+
+#### Where are you?
+
+To start making your own campaign pick a settings that you want to play in. Do you want to be in a bustling city, exploring dangerous dungeons, or sailing in the open sea?
+
+#### Why are you there?
+
+Once you know where you are, figure out why you are there. Did the Count of the city hold a ball and your group was invited because of past deads? Does the dungeon hold a valuable item that a dragon wants in return for not burning down your village?
+
+#### What tasks do you need to do?
+
+Now that you know the where and the why, what do you need to do? Create some enemies for your players to contend with, whether by wit or steel. An encounter can be social, a fight, a puzzle, or whatever you want!
+
+#### Extra Notes
+
+You can do as much or little planning as you desire. As long as you know the where, why, and what of the night the party will be filling in the rest.
 
 A popular approach is to simply repurpose scenarios and characters from popular media. For instance, maybe take the plot of _Alien_ but replace the alien with a dragon. Or maybe have your adventureres go on the train-robbery mission from _Firefly_. You get the idea!
 
