@@ -140,6 +140,7 @@ Some can use magic, some are good at melee combat, some are good a ranged weapon
 
 | Class    | Quality | Good at |
 |:------------- |:----------------|:-------------|
+| Artificer      | Crafting magic | Spells, magic items, tinkering |
 | Barbarian      | Strong | Hitting things |
 | Bard      | Musical | Seduction |
 | Cleric      | Religious magic | Healing |
