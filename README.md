@@ -352,6 +352,8 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 * [Sane Item Prices, Searchable](https://docs.google.com/spreadsheets/d/1OG7UsbsjNFX4zVkDORiem1ySUGYrhu-wrTRnGEk4jgc/edit#gid=0) - Same as above, but as a Google Docs spreadsheet.
 * [5etools](https://5e.tools) - A pretty comprehensive toolset for players & GMs, contains a lot of content for referencing.
 * [D&D Compendium](https://www.dnd-compendium.com/home) - A resource for over 700 D&D resources. 
+* [Homebrew Inn content](https://www.reddit.com/r/DnD/comments/hijytl/oc_homebrew_inn_has_closed_and_are_giving_out_all/fwhfqpy/) - Free resources by the Homebrew Inn linked in a Reddit comment.
+* [Maps by Dyson's Dodacehdron](https://dysonlogos.blog/maps/) - A collection of over 800 freely available maps for DMs to use.
 
 ## Improving this Guide 🔀
 
