@@ -305,9 +305,9 @@ There are also many unofficial fan-made campaigns that are just as good as the o
 
 #### Official
 
-* [Harried in Hilsfar](http://media.wizards.com/2015/downloads/DDEX31_HarriedHillsfar.pdf) - Perfect for beginners.
+* [Harried in Hilsfar](http://www.editorifolli.it/f/dnd5/dnd5DDEX3-1Harried%20in%20Hillsfar.pdf) - Perfect for beginners.
 * [Defiance in Phlan](https://www.scribd.com/doc/241684556/DDEX11-Defiance-in-Phlan)
-* [Lost Mines of Phandelver](https://dnd.rem.uz/5e%20D%26D%20Books/Adventures/Starter%20Set/Lost%20Mine%20of%20Phandelver%20%281-5%29.pdf)
+* [Lost Mines of Phandelver](https://www.dndbeyond.com/sources/lmop) - You will have to signup for DNDBeyond, however, the adventure is still free and DNDBeyond may lead to many other sources of endless RPG fun.
 * [Death House](https://media.wizards.com/2016/downloads/DND/Curse%20of%20Strahd%20Introductory%20Adventure.pdf)
 
 #### Fan-made
@@ -330,7 +330,7 @@ There's also no reason why your quest has to be in a Tolkein-esque fantasy unive
 
 * [Player's Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf)
 * [Dungeon Master's Basic Rules](http://media.wizards.com/2016/downloads/DND/DMBasicRulesV05.pdf)
-* [Monster Manual](http://d20.sabotender.com/5th/Source/DnD%205e%20Monsters%20Manual.pdf)
+* [Monster Manual](https://online.anyflip.com/duex/ixpz/mobile/index.html#p=1)
 * [Spell List](https://media.wizards.com/2015/downloads/dnd/DnD_SpellLists_1.0.pdf)
 
 #### Unofficial
